@@ -1,6 +1,6 @@
 set names utf8;
 set foreign_key_checks = 0;
-drop datebase if exists logindb_miyoshi;
+drop database if exists logindb_miyoshi;
 create database logindb_miyoshi;
 use logindb_miyoshi;
 
